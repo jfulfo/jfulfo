@@ -1,10 +1,10 @@
 ## ⚡ Technologies
 
-![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim
+![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim)
 
-![Frameworks](https://skillicons.dev/icons?tensorflow,pytorch
+![Frameworks](https://skillicons.dev/icons?tensorflow,pytorch)
 
-![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash
+![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash)
 
 ## 📊 Statistics
 
