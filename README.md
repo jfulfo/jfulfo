@@ -11,8 +11,8 @@ Currently working with [Wenxi Wang](https://wenxiwang.github.io/) at UVA on a pr
 * **Math**: I also enjoy solving putnam problems and regularly participate in UVA's Putnam problem solving group. I also love writing LaTeX.
 * **Music**: I produce music in my freetime and play the drums.
 
-## Technologies/Frameworks
-![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim,tensorflow,pytorch,mysql)
-
 ## Programming Languages
 ![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash,latex)
+
+## Technologies/Frameworks
+![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim,tensorflow,pytorch,mysql)
