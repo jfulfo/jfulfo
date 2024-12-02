@@ -1,5 +1,3 @@
-# I'm Jamie
-
 ## Bio
 Third-year Computer Science and Mathematics student at the University of Virginia, graduating in Spring 2025. 
 Research interests include programming languages, formal methods, and software engineering.
