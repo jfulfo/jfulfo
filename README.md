@@ -1,4 +1,6 @@
-# Bio
+# I'm Jamie
+
+## Bio
 Third-year Computer Science and Mathematics student at the University of Virginia, graduating in Spring 2025. 
 Research interests include programming languages, formal methods, and software engineering.
 Experienced with Python, Java, Rust, C/C++, Haskell, and OCaml. 
@@ -11,8 +13,8 @@ Currently working with [Wenxi Wang](https://wenxiwang.github.io/) at UVA on a pr
 * **Math**: I also enjoy solving putnam problems and regularly participate in UVA's Putnam problem solving group. I also love writing LaTeX.
 * **Music**: I produce music in my freetime and play the drums.
 
-### Technologies/Frameworks
+## Technologies/Frameworks
 ![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim,tensorflow,pytorch,mysql)
 
-### Programming Languages
+## Programming Languages
 ![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash,latex)
