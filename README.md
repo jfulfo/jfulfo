@@ -1,18 +1,27 @@
-## Bio
-Third-year Computer Science and Mathematics student at the University of Virginia, graduating in Spring 2025. 
-Research interests include programming languages, formal methods, and software engineering.
-Experienced with Python, Java, Rust, C/C++, Haskell, and OCaml. 
-Spent last summer at Penn for a [REU in Programming Languages](https://penn-repl.github.io/) with [Steve Zdancwic](https://www.cis.upenn.edu/~stevez/).
-Currently working with [Wenxi Wang](https://wenxiwang.github.io/) at UVA on a project with the Dafny verification language.
+### JAMIE FULFORD
 
-## Hobbies
+`verification systems • type theory • formal methods`
 
-* **Reading**: I spend a lot of my free time reading, mostly classic novels. I'm currently reading *Moby Dick* by Herman Melville.
-* **Math**: I also enjoy solving putnam problems and regularly participate in UVA's Putnam problem solving group. I also love writing LaTeX.
-* **Music**: I produce music in my freetime and play the drums.
+Third-year CS & Mathematics student exploring the boundaries between mathematical proof and program correctness.
+Currently working with [Wenxi Wang](https://wenxiwang.github.io/) on making verification conditions in Dafny more intuitive.
+Previously developed parallel lambda calculus variants at Penn's [PL REU](https://penn-repl.github.io/) with [Steve Zdancewic](https://www.cis.upenn.edu/~stevez/).
 
-## Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash,latex)
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jfulfo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jfulfo&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
 
-## Technologies/Frameworks
-![Programs](https://skillicons.dev/icons?i=linux,apple,windows,git,vscode,vim,tensorflow,pytorch,mysql)
+**SYSTEMS**  
+![Languages](https://skillicons.dev/icons?i=py,cpp,c,java,rust,haskell,ocaml,bash,latex)  
+![Tech](https://skillicons.dev/icons?i=linux,git,vim,tensorflow,pytorch,mysql)
+
+**PROJECTS**
+
+- Verification condition translation (Dafny/Z3)
+- Parallel lambda calculus semantics
+- Neural network implementations (C/Rust/Python)
+- Real-time edge detection systems
+
+Outside the lab: Putnam problems, LaTeX proofs, and industrial music.
+
+`jamie.fulford.math@gmail.com • jfulfo.github.io`
