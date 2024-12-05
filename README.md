@@ -1,4 +1,4 @@
-### Jamie Fulford
+### Bio
 
 Third-year CS & Math at UVA focused on programming languages and formal methods.
 Working with [Wenxi Wang](https://wenxiwang.github.io/) on making program verification more accessible through better translation of verification conditions in Dafny.
